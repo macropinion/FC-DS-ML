@@ -1,0 +1,15 @@
+---
+title: "Template Quarto"
+author: "Wilhelm Hartung"
+project: 
+    type: website
+    render: 
+        - index.qmd
+preview: 
+    port: 2222
+format: 
+    html:
+        page-layout: article
+---
+
+Whatever content
