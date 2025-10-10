@@ -12,4 +12,4 @@ format:
         page-layout: article
 ---
 
-Whatever content
+Damn I just created a website dude
