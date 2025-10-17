@@ -1,15 +1,6 @@
 ---
 title: "Template Quarto"
 author: "Wilhelm Hartung"
-project: 
-    type: website
-    render: 
-        - index.qmd
-preview: 
-    port: 2222
-format: 
-    html:
-        page-layout: article
 ---
 
 Damn I just created a website dude
