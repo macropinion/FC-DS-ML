@@ -1,6 +1,0 @@
----
-title: "Template Quarto"
-author: "Wilhelm Hartung"
----
-
-Damn I just created a website dude
